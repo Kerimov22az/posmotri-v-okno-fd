@@ -1,1 +1,1 @@
-git@github.com:Kerimov22az/posmotri-v-okno-fd.git
+https://github.com/Kerimov22az/posmotri-v-okno-fd.git
